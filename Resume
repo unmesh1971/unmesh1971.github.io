@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rahul V. Deshmukh - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+    h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 3px;
+      margin-top: 30px;
+    }
+    p, li {
+      font-size: 15px;
+    }
+    ul {
+      margin-top: 5px;
+    }
+    .contact {
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+    .section {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Rahul V. Deshmukh</h1>
+  <p class="contact">
+    Freelance Artist | Design Educator | Creative Director<br>
+    📍 Pune, Maharashtra, India | 📞 +91 98765 xx210 | ✉️ remove@gmail.com<br>
+    🌐 www.rahulartworks.in | LinkedIn: linkedin.com/in/rahuldeshmukh
+  </p>
+
+  <h2>Professional Summary</h2>
+  <p>
+    Creative and multidisciplinary Freelance Artist with over 25 years of experience in visual arts, design strategy, and art education. Founder and Creative Director of Studio Kalavritt, a Pune-based design studio specializing in bespoke illustration, mural design, and visual storytelling. Currently serving as an Assistant Professor of Design, blending academic rigor with practical insights. Proven expertise in mentoring young designers, leading community art projects, and curating exhibitions across India.
+  </p>
+
+  <h2>Key Skills</h2>
+  <ul>
+    <li>Fine Arts (Sketching, Painting, Mural Work)</li>
+    <li>Graphic & Visual Design</li>
+    <li>Design Thinking & Concept Development</li>
+    <li>Art Curation & Exhibition Design</li>
+    <li>Branding & Identity</li>
+    <li>Design Pedagogy</li>
+    <li>Creative Entrepreneurship</li>
+    <li>Adobe Creative Suite, CorelDRAW, Procreate</li>
+  </ul>
+
+  <h2>Professional Experience</h2>
+  <h3>Assistant Professor – Department of Design</h3>
+  <p><em>XYZ Institute of Design, Pune | 2017 – Present</em></p>
+  <ul>
+    <li>Teach core courses in Visual Communication, Drawing Techniques, and Design Thinking.</li>
+    <li>Mentor final-year design projects and lead industry collaborations.</li>
+    <li>Conduct workshops on traditional Indian art forms and contemporary illustration.</li>
+    <li>Active member of curriculum development and assessment committees.</li>
+  </ul>
+
+  <h3>Founder & Creative Director – Studio Kalavritt</h3>
+  <p><em>Pune | 2003 – Present</em></p>
+  <ul>
+    <li>Manage a multidisciplinary art and design studio.</li>
+    <li>Led 150+ commissioned projects for clients in publishing, hospitality, and advertising.</li>
+    <li>Specialized in wall art, editorial illustration, branding, and public installations.</li>
+    <li>Conduct community-based art programs with NGOs and schools.</li>
+  </ul>
+
+  <h3>Freelance Visual Artist</h3>
+  <p><em>Across India | 1999 – 2003</em></p>
+  <ul>
+    <li>Book illustrations, set designs, and gallery exhibitions.</li>
+    <li>Won regional art awards and participated in state exhibitions.</li>
+  </ul>
+
+  <h2>Education</h2>
+  <ul>
+    <li><strong>MFA (Applied Arts)</strong> – Sir J.J. Institute of Applied Art, Mumbai | 2000</li>
+    <li><strong>BFA (Painting)</strong> – Abhinav Kala Mahavidyalaya, Pune | 1997</li>
+  </ul>
+
+  <h2>Exhibitions & Projects</h2>
+  <ul>
+    <li>“Voices on the Wall” – Pune Metro Mural Series (2023)</li>
+    <li>National Art Camp – Lalit Kala Akademi (2020)</li>
+    <li>Illustrated Anthology – Penguin India (2021)</li>
+    <li>Solo Show: “Silent Narratives” – Jehangir Art Gallery (2015)</li>
+  </ul>
+
+  <h2>Workshops & Talks</h2>
+  <ul>
+    <li>Guest Talk – “Design in Indian Context”, NID Ahmedabad (2022)</li>
+    <li>Workshop – “Storytelling through Line”, Design Yatra (2019)</li>
+    <li>Panelist – “Future of Design Education”, India Design Forum (2021)</li>
+  </ul>
+
+  <h2>Awards & Recognition</h2>
+  <ul>
+    <li>Kalidas Art Fellowship – MP Government (2018)</li>
+    <li>Best Visual Artist – Maharashtra State Art Exhibition (2014)</li>
+    <li>Gold Medal – All India Art Contest (2002)</li>
+  </ul>
+
+  <h2>Languages</h2>
+  <ul>
+    <li>Marathi (Native)</li>
+    <li>Hindi (Fluent)</li>
+    <li>English (Fluent)</li>
+  </ul>
+
+  <h2>Personal Details</h2>
+  <ul>
+    <li><strong>Date of Birth:</strong> 20 July 1975</li>
+    <li><strong>Gender:</strong> Male</li>
+    <li><strong>Nationality:</strong> Indian</li>
+    <li><strong>Marital Status:</strong> Married</li>
+  </ul>
+
+</body>
+</html>
